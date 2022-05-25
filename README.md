@@ -1,2 +1,0 @@
-# ExternalBlocklist
-ExternalBlocklist
